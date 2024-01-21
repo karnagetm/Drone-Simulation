@@ -1,4 +1,4 @@
-### Drone Simulation README (Further Refined Draft)
+### Drone Simulation README 
 
 # Drone Simulation
 
