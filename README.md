@@ -5,7 +5,7 @@
 ## Project Overview:
 This drone simulation is a Java-based application that provides both a console and a graphical user interface (GUI) for visualizing drone movements within a specified arena. The project demonstrates advanced object-oriented programming concepts, GUI development with JavaFX, and real-time interaction in a simulated environment.
 
-## Features
+## Features:
 - **Graphical Interface**: JavaFX-based GUI with interactive elements for controlling and observing drones.
 - **Console Representation**: A console version that utilizes character arrays for a simpler representation.
 - **Drone Behaviors**: Includes various drone types with distinct behaviors, such as `DroneHunter` and `ConsoleDrone`.
